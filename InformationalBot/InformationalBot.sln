@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformationalBot", "..\Informational\src\InformationalBot\InformationalBot.csproj", "{0CDB9F07-FEDD-4B67-9D48-46F244150CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestMatchDialog", "..\..\..\Desktop\botframework-master\BestMatchDialog\BestMatchDialog\BestMatchDialog.csproj", "{5B3F1267-18B6-4966-87EB-0D85C308FB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDB9F07-FEDD-4B67-9D48-46F244150CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDB9F07-FEDD-4B67-9D48-46F244150CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDB9F07-FEDD-4B67-9D48-46F244150CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDB9F07-FEDD-4B67-9D48-46F244150CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3F1267-18B6-4966-87EB-0D85C308FB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3F1267-18B6-4966-87EB-0D85C308FB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3F1267-18B6-4966-87EB-0D85C308FB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3F1267-18B6-4966-87EB-0D85C308FB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3B7835-93F2-4BDE-9239-20C177AC4133}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bot-poc.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\..\\..\\Desktop\\botframework-master\\BestMatchDialog\\BestMatchDialog\\BestMatchDialog.csproj
+		SccProjectName1 = BestMatchDialog
+		SccLocalPath1 = ..\\..\\..\\Desktop\\botframework-master\\BestMatchDialog\\BestMatchDialog
+		SccProjectUniqueName2 = ..\\Informational\\src\\InformationalBot\\InformationalBot.csproj
+		SccProjectName2 = ../Informational/src/InformationalBot
+		SccLocalPath2 = ..\\Informational\\src\\InformationalBot
+	EndGlobalSection
+EndGlobal
